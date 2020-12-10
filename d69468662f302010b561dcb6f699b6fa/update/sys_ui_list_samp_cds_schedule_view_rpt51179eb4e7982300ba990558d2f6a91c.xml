@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="samp_cds_schedule_view" version="2" view="RPT51179eb4e7982300ba990558d2f6a91c">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="samp_cds_schedule_view" element="NULL" name="samp_cds_schedule_view" parent="NULL" relationship="NULL" sys_domain="global" view="bd7a85222fb02010b561dcb6f699b603">bd7a85222fb02010b561dcb6f699b605</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-03 09:58:00</sys_created_on>
+            <sys_id>b97a85222fb02010b561dcb6f699b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-03 09:58:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>current_count</element>
+            <list_id display_value="samp_cds_schedule_view" element="NULL" name="samp_cds_schedule_view" parent="NULL" relationship="NULL" sys_domain="global" view="bd7a85222fb02010b561dcb6f699b603">bd7a85222fb02010b561dcb6f699b605</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-03 09:58:00</sys_created_on>
+            <sys_id>b17a85222fb02010b561dcb6f699b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-03 09:58:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>expected_count</element>
+            <list_id display_value="samp_cds_schedule_view" element="NULL" name="samp_cds_schedule_view" parent="NULL" relationship="NULL" sys_domain="global" view="bd7a85222fb02010b561dcb6f699b603">bd7a85222fb02010b561dcb6f699b605</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-03 09:58:00</sys_created_on>
+            <sys_id>357a85222fb02010b561dcb6f699b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-03 09:58:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_updated_on</element>
+            <list_id display_value="samp_cds_schedule_view" element="NULL" name="samp_cds_schedule_view" parent="NULL" relationship="NULL" sys_domain="global" view="bd7a85222fb02010b561dcb6f699b603">bd7a85222fb02010b561dcb6f699b605</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-03 09:58:00</sys_created_on>
+            <sys_id>b57a85222fb02010b561dcb6f699b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-03 09:58:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>next_action</element>
+            <list_id display_value="samp_cds_schedule_view" element="NULL" name="samp_cds_schedule_view" parent="NULL" relationship="NULL" sys_domain="global" view="bd7a85222fb02010b561dcb6f699b603">bd7a85222fb02010b561dcb6f699b605</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-03 09:58:00</sys_created_on>
+            <sys_id>397a85222fb02010b561dcb6f699b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-03 09:58:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>samp_cds_schedule_view</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-03 09:58:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd7a85222fb02010b561dcb6f699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>samp_cds_schedule_view</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_549540_needit_sp">d69468662f302010b561dcb6f699b6fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">d69468662f302010b561dcb6f699b6fa</sys_scope>
+            <sys_update_name>sys_ui_list_samp_cds_schedule_view_RPT51179eb4e7982300ba990558d2f6a91c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-03 09:58:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt51179eb4e7982300ba990558d2f6a91c" name="RPT51179eb4e7982300ba990558d2f6a91c">bd7a85222fb02010b561dcb6f699b603</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
